@@ -19,7 +19,7 @@ ARC puzzle visualizer for verifying test integrity and comparing AI responses
 3. (Optional) Paste AI-generated answer JSON to compare against correct solution
 
 ### Puzzle Files
-Under sample_puzzles are 3 random selections from [ARC-AGI](https://github.com/fchollet/ARC-AGI/tree/master/data/training). Each is included in full and quiz form. Also included is a puzzle of my creation that has produced 9 different wrong answers acros ChatGPT and Claude with various models.
+Under sample_puzzles are 3 random selections from [ARC-AGI](https://github.com/fchollet/ARC-AGI/tree/master/data/training). Each is included in full and quiz form. Also included is a puzzle of my creation that has produced 11 different wrong answers acros ChatGPT and Claude with various models (GPT-5 and Opus 4.1 now included).
 
 ---
 
